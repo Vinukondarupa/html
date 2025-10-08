@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contact{
+    width:100%;
+    background: linear-gradient(to top,rgba(246, 241, 241, 0.5),rgba(246, 241, 241, 0.5)),url(4.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+.team{
+    display: flex;
+    justify-content: center;
+    color: rgb(37, 8, 87);
+    font-size: 25px;
+    font-family: Arial;
+}
+.call{
+   /* border: 2px solid black;*/
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+.me h3{
+    border: 2px solid rgb(37, 12, 140);
+    border-radius: 20px;
+    background-color: rgb(58, 5, 107);
+    color: aliceblue;
+    padding: 20px 20px 20px 20px;
+}

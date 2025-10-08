@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contact{
+    width:100%;
+    background: linear-gradient(to top,rgba(246, 241, 241, 0.5),rgba(246, 241, 241, 0.5)),url(4.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+.team{
+    display: flex;
+    justify-content: center;
+    color: rgb(37, 8, 87);
+    font-size: 25px;
+    font-family: Arial;
+}
+.container{
+    /*border: 2px solid black;*/
+    display: flex;
+    margin-top: 50px;
+    gap: 30px;
+    justify-content: center;
+    
+}
+.child h3{
+    color: rgb(99, 4, 76);
+    font-size: 16px;
+    font-family: Arial;
+}
+.call{
+   /* border: 2px solid black;*/
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+.me h3{
+    border: 2px solid blueviolet;
+    border-radius: 20px;
+    background-color: blueviolet;
+    color: aliceblue;
+    padding: 20px 20px 20px 20px;
+}
