@@ -1,0 +1,65 @@
+.container{
+    /*border: 2px solid black;
+    height: 900px;*/
+    
+}
+.child{
+     /*border: 2px solid black;*/
+     height: 100px;
+     display: flex;
+}
+.row{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+.child-1>div:nth-child(even){
+    background-color: brown;  
+}
+.child-1>div:nth-child(odd){
+    background-color:blanchedalmond;  
+}
+.child-2>div:nth-child(odd){
+    background-color: brown;  
+}
+.child-2>div:nth-child(even){
+    background-color:blanchedalmond;  
+}
+.child-3>div:nth-child(even){
+    background-color: brown;  
+}
+.child-3>div:nth-child(odd){
+    background-color:blanchedalmond;  
+}
+.child-4>div:nth-child(odd){
+    background-color: brown;  
+}
+.child-4>div:nth-child(even){
+    background-color:blanchedalmond;  
+}
+.child-5>div:nth-child(even){
+    background-color: brown;  
+}
+.child-5>div:nth-child(odd){
+    background-color:blanchedalmond;  
+}
+.child-6>div:nth-child(odd){
+    background-color: brown;  
+}
+.child-6>div:nth-child(even){
+    background-color:blanchedalmond;  
+}
+.child-7>div:nth-child(even){
+    background-color: brown;  
+}
+.child-7>div:nth-child(odd){
+    background-color:blanchedalmond;  
+}
+.child-8>div:nth-child(odd){
+    background-color: brown;  
+}
+.child-8>div:nth-child(even){
+    background-color:blanchedalmond;  
+}
+
+
